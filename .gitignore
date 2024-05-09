@@ -1,0 +1,9 @@
+#Envirnoment varibles
+.env 
+
+# Environment
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
